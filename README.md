@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thhorr" alt="thhorr" /></a> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Js Blockchain Development**
 
-- 💬 Ask me about **HTML,CSS,Javascript,React,Redux**
+- 💬 Ask me about **HTML,CSS,Javascript,React,Redux,Solidity,Ethereum,Bitcoin,Hyperledger,Consensus**
 
 - 📫 How to reach me **y.diwan95@gmail.com**
 
