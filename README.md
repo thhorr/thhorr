@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Js, Blockchain Development**
 
-- 💬 Ask me about **HTML,CSS,Javascript,React,Redux,Solidity,Ethereum,Bitcoin,Hyperledger,Consensus,Transactions**
+- 💬 Ask me about **HTML,CSS,Javascript,React,Redux,Solidity,Ethereum,Bitcoin,SmartContractSecurity,Tokenomics **
 
 - 📫 How to reach me **y.diwan95@gmail.com**
 
