@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thhorr" alt="thhorr" /></a> </p>
 
-- 🌱 I’m currently learning **React Js, Blockchain Development**
+- 🌱 I’m currently learning **Blockchain Development**
 
 - 💬 Ask me about **HTML,CSS,Javascript,React,Redux,Solidity,Ethereum,Bitcoin,SmartContractSecurity,Tokenomics **
 
